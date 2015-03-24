@@ -1,5 +1,7 @@
 # FAQ []({{ site.repo }}/blob/master/docs/_i18n/{{ site.lang }}/faq/faq.md)
 
+### 你好，非常感谢您提供了一个如此强大而且好用的插件，但是我想请教一下您的插件里面，queryParamsType这个属性在整体控件中是一个什么样的作用呢？，因为我将它设置为空，代码也是可以正常执行，而且我看了您的源代码，一时也难以明白这个属性执行的那些代码的是用来做什么工作的呢？
+
 ---
 
 ### When resize the window, the table header does not adjust automatically, how to solve it?
